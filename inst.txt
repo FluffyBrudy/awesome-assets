@@ -1,0 +1,24 @@
+1. The "Style Match" Search (Most Accurate)
+
+tag:top-down tag:forest tag:16x16 tag:painterly
+
+Why: This filters specifically for the painterly brush style that PixiVan uses, rather than hard-edged pixel art.
+2. The "Free & Commercial" Search
+
+tag:free tag:top-down tag:forest tag:asset-pack
+
+Why: Ensures you only see free packs that are ready for commercial use (matching the PixiVan license).
+3. The "Cute/Fantasy" Vibe Search
+
+tag:16x16 tag:forest tag:cute tag:fantasy
+
+Why: PixiVan's art is often described as "cute" or "fantasy." This finds packs with that specific soft, whimsical aesthetic.
+4. The "Animated" Search
+
+tag:top-down tag:forest tag:animated
+
+
+Category: Select Game Assets.
+Price: Select Free (or Pay what you want if you want to support creators).
+Tags: Manually add 16x16, Top-Down, and Forest if the search didn't catch them all.
+Sort By: Select Rating or Most Downloaded
